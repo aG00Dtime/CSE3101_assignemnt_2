@@ -10,11 +10,9 @@ Scott Johnson - 1043201
 
 ## Setting Up the database
 
-- Extract the zip file containing the source code along with database dump of the application into the xamp htdocs folder.
+- Extract the zip file containing the source code along with database dump of the application into the xamp htdocs folder. eg,C:\xampp\htdocs\assignment_2_GROUP_1
 
-```C:\xampp\htdocs\assignment_2_GROUP_1
 
-```
 
 - open the xamp control panel and make sure the apache and mysql modules are running.
 
