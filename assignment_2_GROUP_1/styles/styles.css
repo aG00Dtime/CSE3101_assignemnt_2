@@ -1,0 +1,10 @@
+main {
+	height: 110vh;
+}
+
+.welcome {
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	padding-top: 10%;
+}
